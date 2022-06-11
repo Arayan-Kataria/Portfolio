@@ -1,0 +1,167 @@
+.navigation-div{
+  padding: 1.5rem;
+  background-color: #354259;
+}
+
+body{
+  background-color: #C2DED1;
+}
+
+.hey{
+  color: #CDC2AE;
+  font-weight: bold;
+  text-align: right;
+}
+
+.hey:hover{
+  color: white;
+}
+
+.hey:active{
+  color: white;
+}
+
+h1{
+  text-align: center;
+  margin: 4rem;
+  padding: 10%;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  font-family: 'Sacramento', cursive;
+  font-size: 80px;
+  color:  #354259;
+}
+
+h4{
+  font-size: 40px;
+  font-family: 'Montserrat-bold', sans-serif;
+}
+
+h3{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-weight:800;
+}
+
+.img-cloud-up{
+  position: absolute;
+  margin-left: 900px;
+  margin-top: 120px;
+}
+
+.img-cloud-down{
+  position: absolute;
+  margin-left: 210px;
+  margin-bottom: 20px;
+}
+
+hr{
+  border-style: dotted;
+  border-width: 6px;
+  border-bottom: 0;
+  width: 7%;
+  margin: 0 auto;
+}
+
+#intro-1{
+  margin-top: 20% ;
+  text-align: center;
+  background-color: white;
+  color: #2F8F9D;
+
+}
+
+.tony{
+  background-color: white;
+  height: 100px;
+}
+.photo-dp{
+  height: 150px;
+  width: 150px;
+  margin-top: 100px;
+  margin-bottom: 30px;
+}
+
+.intro-para{
+  padding: 10px;
+  margin-bottom: 50px;
+}
+
+.what{
+  margin-top: 70px;
+  height: 625px;
+  text-align: center;
+}
+
+.img-cod{
+  float:left;
+  height: 150px;
+  width: 150px;
+  position: relative;
+  right: 20px;
+  bottom: 20px;
+
+}
+
+.img-dev{
+  float: right;
+  height: 135px;
+  width: 135px;
+  position: relative;
+  left: 20px;
+}
+
+h5{
+  font-size: 32px;
+}
+
+.para-1{
+  margin-top: 120px;
+  text-align: left;
+  margin-left: 300px;
+  width: 60%;
+  margin-bottom: 90px;
+}
+
+.para-2{
+  margin-top: 120px;
+  text-align: left;
+  width: 60%;
+  margin-left: 300px;
+}
+
+#copyright{
+  background-color: #C2DED1;
+  text-align: center;
+  height: 100px;
+  margin-top: 20px;
+}
+
+.fa-brands{
+  margin: 20px 15px;
+  color: black;
+  font-size: 30px;
+
+}
+
+.copy{
+  font-size: 10px;
+  padding: 20px;
+}
+
+.link-img{
+  height: 20px;
+  width: 20px;
+}
+
+#contact{
+  height: 600px;
+  background-color: white;
+  color: #2F8F9D;
+
+}
+
+.con-1{
+  text-align: center;
+  margin-top: 100px;
+}
